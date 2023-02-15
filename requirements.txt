@@ -3,7 +3,6 @@ anyio==3.6.2
 astunparse==1.6.3
 cached-property==1.5.2
 cachetools==5.2.0
-certifi @ file:///C:/b/abs_ac29jvt43w/croot/certifi_1665076682579/work/certifi
 charset-normalizer==2.1.1
 classification-models-3D==1.0.3
 click==8.1.3
